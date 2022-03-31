@@ -1,0 +1,25 @@
+nav{
+    background-color: #203239;
+}
+section#photos{
+    padding: 2% 5%;
+}
+div#photo-cont{
+    background-color: #ECECEC;
+    display: flex;
+    flex-wrap: wrap;
+    gap:10px 20px;
+    min-height: 20vw;
+}
+
+section#videos{
+    border-top: 2px solid black;
+    padding: 2% 5%;
+}
+div#video-cont{
+    background-color: #ECECEC;
+    display: flex;
+    flex-wrap: wrap;
+    gap:10px 20px;
+    min-height: 20vw;
+}
